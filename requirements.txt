@@ -1,3 +1,7 @@
 langchain
 openai
 streamlit
+#pydantic==1.10.9
+numpy
+pandas
+tensorflow
